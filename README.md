@@ -4,8 +4,10 @@
     
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ About me ✨</h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        I'm a passionate student diving deep into the world of IT, constantly exploring new technologies and seeking innovative solutions to real-world problems.
+    <div style="font-weight: 700; font-size: 15px; text-align:left; color: #282d33;">
+        I'm a passionate student diving deep into the world of IT, constantly exploring new technologies and seeking innovative solutions to real-world problems.<br>
+        📚 I'm always eager to learn and grow, so if you have any suggestions, feedback, or just want to chat about tech, don't hesitate to reach out!<br>
+        Happy coding! 😊
     </div>
 
 <div align="center">
